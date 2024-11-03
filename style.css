@@ -237,16 +237,20 @@ section{
         top: 0%;
         /* background-color: green; */
         z-index: 2;
-        width: 100%;
+        width: 100vw;
         height: 100%;
     }
     #home-content #animated-text{
         position:absolute ;
         top: 35%;
+        font-size: 5vw;
     }
     #home-content h1{
         position:absolute ;
         top: 30%;
+        width: 100%;
+        font-size: 7vw;
+        background-color: yellow;
        
     }
     #home-content #paragrap{
@@ -275,7 +279,9 @@ section{
         margin-left: 140px;
         font-size: 2.5vw;
     }
-   
+   .name{
+    font-size: 7vw;
+   }
 }
 
 
