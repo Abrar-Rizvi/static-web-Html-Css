@@ -81,6 +81,7 @@ nav #anchor-tags{
 /* hero section..................................................................................... */
 section{
     padding: 0px 90px ;
+    width: 100vw;
 }
 #hero{
     min-width: 100%;
